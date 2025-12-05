@@ -6,6 +6,8 @@
 #ifndef APPLICATION_H_
 #define APPLICATION_H_
 
+// Mon ajout
+
 /**
   * @class Application
   * @brief Classe Application 
